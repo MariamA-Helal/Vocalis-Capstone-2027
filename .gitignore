@@ -1,0 +1,44 @@
+# =========================
+# 1. Python & Environments
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+vocalis_env/
+.env
+.venv/
+env/
+venv/
+*.log
+vocalis_env/
+
+# =========================
+# 2. Machine Learning & Data
+# =========================
+*.csv
+*.dat
+*.out
+*.hdf5
+*.h5
+*.onnx
+*.tflite
+data/
+datasets/
+
+# =========================
+# 3. Hardware & Proteus Simulation
+# =========================
+*.hex
+*.elf
+*.bin
+*.pdsbak
+*.Backup of *.pdsprj
+*.SDF
+
+# =========================
+# 4. IDEs & OS Files
+# =========================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
