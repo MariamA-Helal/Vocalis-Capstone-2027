@@ -1,0 +1,13 @@
+📌 Objective:
+Create a simulated hardware environment to read analog signals and transmit them to the PC.
+
+🛠️ Tasks:
+
+Set up a microcontroller simulation (Arduino or ESP32) using any suitable environment.
+
+Connect a virtual Function Generator to an analog pin to simulate mock sEMG sine/raw waves.
+
+Write Embedded C/C++ firmware to read the ADC values and print them to the Virtual Serial Port.
+
+✅ Definition of Done (DoD):
+Code compiles successfully, and dummy signal numbers are visible on the PC's serial monitor/virtual port.

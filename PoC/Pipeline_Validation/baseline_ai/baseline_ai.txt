@@ -1,0 +1,13 @@
+📌 Objective:
+Establish the foundational ML pipeline using open-source data before applying it to our own hardware.
+
+🛠️ Tasks:
+
+Download a small open-source sEMG dataset (or create a dummy structured dataset in Python).
+
+Perform feature extraction (e.g., Spectrograms or RMS/MAV).
+
+Train a basic machine learning model (e.g., Random Forest or simple CNN) to classify the signal into two states: Active (Speech) or Idle (Rest).
+
+✅ Definition of Done (DoD):
+The model code runs without errors, processes the features, and outputs a binary prediction with a measurable accuracy score.

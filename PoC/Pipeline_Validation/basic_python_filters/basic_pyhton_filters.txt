@@ -1,0 +1,13 @@
+📌 Objective:
+Receive the dummy hardware data and apply the project's required signal conditioning digitally.
+
+🛠️ Tasks:
+
+Write a Python script using 'pyserial' to read the incoming stream from the virtual COM port.
+
+Use 'scipy.signal' to apply a High-pass filter (10–20 Hz) and a Low-pass filter (400–500 Hz).
+
+Use 'matplotlib' or 'pyqtgraph' to plot the raw vs. filtered signal in real-time.
+
+✅ Definition of Done (DoD):
+Python successfully reads the continuous serial stream, filters it, and displays a live graph without crashing.
