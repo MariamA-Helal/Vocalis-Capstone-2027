@@ -10,7 +10,7 @@ vocalis_env/
 env/
 venv/
 *.log
-vocalis_env/
+vocalis_env
 
 # =========================
 # 2. Machine Learning & Data
